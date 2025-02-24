@@ -7,8 +7,10 @@ if i == 2 :
 
 names=['Cross','Ema','Emilio','Jose']
 names
-
+print("que paso con est")
+print("este menssaje se va a eliminar en el sigueinte commit")
 array=[1,2,3,4,5,6]
-a1=[:-] 
-print(que paso con este s)
-                            
+ 
+
+
+
