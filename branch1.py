@@ -1,2 +1,1 @@
-"en esta ramificacion vamos a unir un archivo que ocultaremos posteriormente"
-
+"Este mensaje no tendria por que alterar el merge"
