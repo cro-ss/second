@@ -2,6 +2,6 @@
 a=1
 if a == 1:
     print(a,"Esta linea no se toca: Grupo 1")
-    
-
 "Este mensaje no tendria por que alterar el merge"
+"Mensaje una vez que hemos  añadido nuesto repositorio a GitHub"
+
