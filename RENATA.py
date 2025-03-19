@@ -4,3 +4,4 @@ for i in [1,2,3,4] :
 
 d1={[1,2,3],[Ema,Cross,Jose Emilio]}
 
+"come with fast forward"
